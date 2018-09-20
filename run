@@ -1,8 +1,0 @@
-#! /bin/sh
-
-cd ~/Movies/3wjok/Contents/MacOS
-./Banana
-cd ..
-cd ..
-cd ..
-chmod -r *
